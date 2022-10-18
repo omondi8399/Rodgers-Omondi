@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Nodejs and PHP**
 
 - 📫 How to reach me **rodgersomondi8399@gmail.com**
 
-- ⚡ Fun fact **The time is now**
+- ⚡ Fun fact **I love building with code **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
